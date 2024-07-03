@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=MinhNghia100402&color=green)
 
-<p>- 🌱 I’m currently learning AI in HIT CLUB  <img src="https://avatars.githubusercontent.com/u/54365408?s=200&v=4" href="https://www.facebook.com/HITClub.HaUI" width="50" height="50"></img></p>
+<p>- 🌱 I’m currently learning AI in HIT CLUB  <a href="https://www.facebook.com/HITClub.HaUI" ><img src="https://avatars.githubusercontent.com/u/54365408?s=200&v=4" width="50" height="50"></img></a></p>
 <p>- 🔭 I’m currently working on HIT - HaUI  <img src="https://avatars.githubusercontent.com/u/54365408?s=200&v=4" width="40" height="40"> </img></p>
 <!-- <p>- 🔭 I’m currently working on NTQ Solution  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_NTQ_Solution_JSC.png" width="40" height="40"> </img></p> -->
 <p>- 📫 You can contact me at: 0335399081 || nghialeefcb@gmail.com || <a href="https://www.facebook.com/nghia.lee.100402/">My facebook</a></p>
