@@ -44,7 +44,7 @@ Here are some ideas that I'm working on:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhNghia100402&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNghia100402&theme=algolia)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/MinhNghia100402/Graduation-Thesis-HaUI-2024)
+<!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/MinhNghia100402/Graduation-Thesis-HaUI-2024) -->
 
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
